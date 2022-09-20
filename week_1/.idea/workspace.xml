@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiDimensionalArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recapDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663676372265</updated>
-      <workItem from="1663676373921" duration="3928000" />
+      <workItem from="1663676373921" duration="4593000" />
     </task>
     <servers />
   </component>

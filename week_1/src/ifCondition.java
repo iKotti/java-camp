@@ -1,4 +1,4 @@
-public class if_condition {
+public class ifCondition {
     public static void main(String[] args) {
         int number = 10;
 
