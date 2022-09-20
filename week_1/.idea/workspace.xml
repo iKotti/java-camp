@@ -4,7 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="" />
+    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../week1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/arraysDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/dataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/helloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/ifCondition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/loopDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/miniProject1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/miniProject2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/miniProject3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/miniProject4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/miniProject5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/multiDimensionalArrayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/recapDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/recapDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/stringsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/switchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/out/production/week1/variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/arraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/dataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/helloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/ifCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/loopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/miniProject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/miniProject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/miniProject3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/miniProject4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/miniProject5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/multiDimensionalArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/recapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/recapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/stringsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/switchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/week1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/arraysDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/dataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/helloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/ifCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/loopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/miniProject1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/miniProject2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/miniProject3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/miniProject4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/miniProject5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/multiDimensionalArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/recapDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/recapDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/stringsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/switchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraysDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiDimensionalArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recapDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recapDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +115,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/iKotti/JavaCamp/week1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -112,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663676372265</updated>
-      <workItem from="1663676373921" duration="4593000" />
+      <workItem from="1663676373921" duration="4836000" />
     </task>
     <servers />
   </component>
