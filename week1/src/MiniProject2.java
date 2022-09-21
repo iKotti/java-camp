@@ -1,4 +1,4 @@
-public class miniProject2 {
+public class MiniProject2 {
     public static void main(String[] args) {
         char character = 'C';
 

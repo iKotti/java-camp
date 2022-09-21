@@ -1,4 +1,4 @@
-public class multiDimensionalArrayDemo {
+public class MultiDimensionalArrayDemo {
     public static void main(String[] args) {
         String[][] cities = new String[3][3];
 

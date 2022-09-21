@@ -1,4 +1,4 @@
-public class recapDemo2 {
+public class RecapDemo2 {
     public static void main(String[] args) {
         double[] numbers = {1.2, 5.7, 8.2, 4.6};
         double total = 0;

@@ -1,4 +1,4 @@
-public class miniProject3 {
+public class MiniProject3 {
     public static void main(String[] args) {
         int number = 28;
         int total = 0;

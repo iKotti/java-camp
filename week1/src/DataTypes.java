@@ -1,4 +1,4 @@
-public class dataTypes {
+public class DataTypes {
     public static void main(String[] args) {
 
         double number = 12.5;

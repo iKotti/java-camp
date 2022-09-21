@@ -1,4 +1,4 @@
-public class arraysDemo {
+public class ArraysDemo {
     public static void main(String[] args) {
         String student1 = "İlker";
         String student2 = "Ziya";

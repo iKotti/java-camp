@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="" />
+    <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProject5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiDimensionalArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiDimensionalArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecapDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,37 +63,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.miniProject1">
-    <configuration name="dataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataTypes" />
+  <component name="RunManager" selected="Application.MiniProject1">
+    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="week1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniProject1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miniProject1" />
+    <configuration name="MiniProject1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniProject1" />
       <module name="week1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniProject3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miniProject3" />
+    <configuration name="MiniProject3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniProject3" />
       <module name="week1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniProject4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miniProject4" />
+    <configuration name="MiniProject4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniProject4" />
       <module name="week1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniProject5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miniProject5" />
+    <configuration name="MiniProject5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniProject5" />
       <module name="week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.miniProject1" />
-        <item itemvalue="Application.dataTypes" />
-        <item itemvalue="Application.miniProject5" />
-        <item itemvalue="Application.miniProject4" />
-        <item itemvalue="Application.miniProject3" />
+        <item itemvalue="Application.MiniProject1" />
+        <item itemvalue="Application.DataTypes" />
+        <item itemvalue="Application.MiniProject5" />
+        <item itemvalue="Application.MiniProject4" />
+        <item itemvalue="Application.MiniProject3" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663676372265</updated>
       <workItem from="1663676373921" duration="4593000" />
+      <workItem from="1663784097238" duration="300000" />
     </task>
     <servers />
   </component>

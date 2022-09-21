@@ -1,4 +1,4 @@
-public class miniProject1 {
+public class MiniProject1 {
     public static void main(String[] args) {
         int number = 13;
         boolean isPrime = true;

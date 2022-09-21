@@ -1,4 +1,4 @@
-public class stringsDemo {
+public class StringsDemo {
     public static void main(String[] args) {
         String message = "Bugün hava çok güzel";
 
