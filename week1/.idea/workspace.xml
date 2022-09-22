@@ -6,22 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="31f75a6d-72c3-4a15-9ad7-f479cac58909" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ifCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProject4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProject5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiDimensionalArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiDimensionalArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecapDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecapDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/switchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/iKotti/JavaCamp/week2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MiniProject1">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
@@ -118,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663676372265</updated>
       <workItem from="1663676373921" duration="4593000" />
-      <workItem from="1663784097238" duration="300000" />
+      <workItem from="1663784097238" duration="922000" />
+      <workItem from="1663857047864" duration="41000" />
     </task>
     <servers />
   </component>
