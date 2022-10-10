@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37e2bce6-e00f-422b-ac81-b59be046faf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/week3.iml" afterDir="false" />
+    <list default="true" id="57d2e71c-4681-4c94-b0dd-85d9b4cfcfff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week3/.idea/week3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2F7xnRg5YJFLV5qWSluIgpcNqkn" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FwrdLQ0rEXBKMfFW4t9X2sZ6Sw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,13 +37,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37e2bce6-e00f-422b-ac81-b59be046faf4" name="Changes" comment="" />
-      <created>1663857089146</created>
+      <changelist id="57d2e71c-4681-4c94-b0dd-85d9b4cfcfff" name="Changes" comment="" />
+      <created>1665414074510</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663857089146</updated>
-      <workItem from="1663857090322" duration="94000" />
-      <workItem from="1665414032367" duration="12000" />
+      <updated>1665414074510</updated>
+      <workItem from="1665414075698" duration="59000" />
     </task>
     <servers />
   </component>
